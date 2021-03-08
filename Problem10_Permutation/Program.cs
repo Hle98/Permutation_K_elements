@@ -9,17 +9,13 @@ namespace Problem10_Permutation
         {
             var ls = new List<string> { "A", "B", "C","D","E" };
             Permutations(ls);
-
         }
         static void Permutations(List<string> ls)
         {
             var results = new List<string>();
             Permutations1(ls, results,1);
         }
- static void Permutations1(List<string> ls, List<string> results,int k)
-           
-            
-  
+        static void Permutations1(List<string> ls, List<string> results,int k)
         {
             if (results.Count==k)
             {
