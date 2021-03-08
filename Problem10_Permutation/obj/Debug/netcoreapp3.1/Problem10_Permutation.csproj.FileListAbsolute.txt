@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\bin\Debug\netcoreapp3.1\Problem10_Permutation.exe
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\bin\Debug\netcoreapp3.1\Problem10_Permutation.deps.json
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\bin\Debug\netcoreapp3.1\Problem10_Permutation.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\bin\Debug\netcoreapp3.1\Problem10_Permutation.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\bin\Debug\netcoreapp3.1\Problem10_Permutation.dll
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\bin\Debug\netcoreapp3.1\Problem10_Permutation.pdb
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.dll
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.pdb
+C:\Users\Huy Le\source\repos\Problem10_Permutation\Problem10_Permutation\obj\Debug\netcoreapp3.1\Problem10_Permutation.genruntimeconfig.cache
